@@ -4,6 +4,10 @@ CMPT200- LAB 3 - Recursion
 Section: X04L
 Cmpt200
 
+The purpose of this program is to solve a maze utilizing recursive 
+backtracking. It takes a maze text file and proceeds to solve the maze with the
+least amount of moves possible.
+
 REFS: Lab 3 lecture monday october 1, 
 Lecture slides on recursion and recursive backtracking by Alex Kreiger
 Maze Solver by A. Salo
